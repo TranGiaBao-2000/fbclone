@@ -1,0 +1,81 @@
+html,
+body {
+  background-color: #f0f2f5;
+}
+.left img {
+  height: 106px;
+  margin: -28px;
+}
+.left p {
+  font-size: 30px;
+  line-height: 28px;
+  width: auto;
+  font-weight: 400;
+  margin-top: 40px;
+}
+.left {
+  width: 550px;
+}
+.content {
+  margin-bottom: 300px;
+  display: flex;
+  justify-content: space-between;
+  height: 100vh;
+  background-color: #f0f2f5;
+  align-items: center;
+}
+.form {
+  align-items: center;
+  background-color: #fff;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+  margin: 40px 0 0;
+  padding: 20px 0 28px;
+  width: 396px;
+}
+.input {
+  font-size: 17px;
+  padding: 14px 16px;
+  width: 330px;
+  border-radius: 6px;
+  width: 90%;
+  margin: 10px 5%;
+  border: 1px solid #dddfe2;
+  outline: none;
+}
+.login {
+  background-color: #1877f2;
+  border: none;
+  border-radius: 6px;
+  font-size: 20px;
+  line-height: 48px;
+  padding: 0 16px;
+  width: 332px;
+  width: 90%;
+  margin: 10px 5%;
+  font-size: 25px;
+  color: #fff;
+  font-weight: 700;
+}
+.fogot {
+  text-align: center;
+  width: 100%;
+}
+.create {
+  border: none;
+  border-radius: 6px;
+  font-size: 17px;
+  line-height: 48px;
+  padding: 0 16px;
+  background-color: rgb(66, 183, 42);
+  width: 70%;
+  margin: 0 15%;
+  text-align: center;
+}
+.create a {
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+}
